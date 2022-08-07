@@ -15,4 +15,4 @@
     <img alifn="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-[![Top Langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslei23&layout=compact)](https://github.com/Weslei23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslei23&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Weslei23)
