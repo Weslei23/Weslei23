@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Weslei Schmitt
 
-**`FullStack Developer`**
+**`Backend Developer`**
 
 My name is Weslei, I'm 21 years old and I'm from Rio Grande do Sul. I'm currently studying Software Engineering at Unopar. I'm passionate about technology and I always try to keep up to date and keep up with what's new in the technology market.
 
